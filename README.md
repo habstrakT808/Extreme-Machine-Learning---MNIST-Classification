@@ -109,4 +109,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Author
 Hafiyan Al Muqaffi Umary
 
-For any questions or suggestions, feel free to [contact me](mailto:your-email@example.com).
+For any questions or suggestions, feel free to [contact me](mailto:jhodywiraputra@gmail.com).
